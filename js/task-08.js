@@ -13,7 +13,7 @@ const handleSubmit = (event) => {
     return alert("All fields must be typed");
     };
 
-    // Creates an object with inputed field values
+    // Creates an object with filled field values
 
   const user = {
     email: email.value,
